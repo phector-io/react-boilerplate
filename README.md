@@ -107,19 +107,19 @@ Tracking suggestions:
 
 Requirements:
 
-- Node.js 18+
-- yarn
+- Node.js 18
+- yarn, npm, or pnpm
 
 1. Install dependencies:
 
 ```bash
-yarn
+yarn install
 ```
 
-2. Start the development server:
+Alternative:
 
 ```bash
-yarn dev
+npm install
 ```
 
 ## Available Scripts
